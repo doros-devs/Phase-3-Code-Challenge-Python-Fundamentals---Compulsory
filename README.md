@@ -16,3 +16,7 @@ This project contains solutions for a Python coding assessment covering various 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+   cd python-coding-assessment
+   
+   python assessment.py
